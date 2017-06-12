@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Madrid 20:30</string>
+
+    <string-array name="activity_array">
+
+        <item>OPCIONES:</item>
+        <item>Restaurantes</item>
+        <item>Bares de Tapas</item>
+        <item>Discotecas</item>
+        <item>Pubs</item>
+
+
+    </string-array>
+
+    <string-array name="zone_array">
+        <item>OPCIONES:</item>
+        <item>Atocha</item>
+        <item>Alonso Martínez</item>
+        <item>Ventas</item>
+        <item>Colón</item>
+        <item>Moncloa</item>
+        <item>Plaza de Castilla</item>
+        <item>NN Ministerios</item>
+        <item>Retiro</item>
+        <item>Moncloa</item>
+        <item>Malasaña</item>
+        <item>Sol</item>
+
+    </string-array>
+
+
+</resources>
